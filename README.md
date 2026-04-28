@@ -24,7 +24,7 @@ C | C++ | Java | Python | JavaScript | HTML | CSS
 Data Structures & Algorithms | DBMS | OOPs | Operating Systems  
 
 ### ⚙️ Frameworks & Tools:
-Django | Express.js | React (Basics) | Streamlit  
+Django | Express.js | React.js | Streamlit  
 
 ### 🔗 Other Tools:
 Git | GitHub | VS Code | Postman  

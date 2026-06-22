@@ -1,5 +1,5 @@
 👨‍💻 Hey there, I'm Sonu Kumar Mandal!
-🎓 Final Year Computer Science Engineering Student  
+🎓 Graduate in Computer Science Engineering 
 
 💡 Passionate about building real-world projects and solving problems using technology.  
 🚀 Exploring Web Development, AI/ML, and Software Engineering to create impactful solutions.  

@@ -27,7 +27,7 @@ Data Structures & Algorithms | DBMS | OOPs | Operating Systems
 Django | Express.js | React.js | Streamlit  
 
 ### 🔗 Other Tools:
-Git | GitHub | VS Code | Postman  
+Git | GitHub | VS Code | Postman  | AWS
 
 ---
 
@@ -39,8 +39,7 @@ Machine Learning project using multiple models like Random Forest with a Streaml
 ### 🛒 E-Commerce Website  
 Full-stack project with product listing and shopping cart.
 
-### 🐍 Snake Game  
-Responsive browser-based game with sound effects.
+
 
 ### 🌐 Portfolio Website  
 Personal website to showcase skills and projects.

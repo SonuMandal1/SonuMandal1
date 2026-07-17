@@ -42,6 +42,7 @@ Full-stack project with product listing and shopping cart.
 
 
 🏦 NexaBank
+
 Secure full-stack digital banking platform featuring authentication, account management, transactions, and a modern responsive interface.
 
 

@@ -39,7 +39,8 @@ Machine Learning project using multiple models like Random Forest with a Streaml
 ### 🛒 E-Commerce Website  
 Full-stack project with product listing and shopping cart.
 
-
+🏦 NexaBank
+Secure full-stack digital banking platform featuring authentication, account management, transactions, and a modern responsive interface.
 
 ### 🌐 Portfolio Website  
 Personal website to showcase skills and projects.
